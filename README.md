@@ -44,6 +44,4 @@ git clone https://github.com/3bwahab/advanced-xss-scanner.git
 cd advanced-xss-scanner
 pip install -r requirements.txt```
 
-## usage
-```bash
-python3 v30.py example.com
+
